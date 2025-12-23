@@ -1,0 +1,10 @@
+.venv/
+data/raw_videos
+data/how2sign_realigned_train.csv
+data/raw_videos_test
+__pycache__/
+.idea/
+output.mp4
+best_encoder_decoder_model.pt
+best_model_val.pt
+data/precomputed_train
