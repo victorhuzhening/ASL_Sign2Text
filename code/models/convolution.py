@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 from torch import Tensor
 from activation import Swish, GLU
-from wrappers import Transpose
+from modules import Transpose
 from typing import Tuple
 
 class PointwiseConv1d(nn.Module):

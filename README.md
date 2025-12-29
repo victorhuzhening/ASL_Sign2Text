@@ -1,3 +1,8 @@
+# IMPORTANT #
+
+#### This repo contains a working draft of the proposed improvements based on the original working ASL Sign2Text project. To view the original working project go to this link: https://github.com/victorhuzhening/METCS777-Term-Project-Garghi-Hu
+
+
 # Environment setup
 
 ## Dependency

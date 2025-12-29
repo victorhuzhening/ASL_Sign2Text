@@ -1,6 +1,6 @@
 import torch.nn as nn
 from torch import Tensor
-from wrappers import Linear
+from modules import Linear
 from activation import Swish
 
 
